@@ -1,5 +1,6 @@
 # Hexagons
 ![alt text](https://github.com/science4performance/Hexagons/blob/main/Hexagon%206.png)
  Create random tilings of hexagons
--  Inspired by this video https://www.youtube.com/watch?v=Yy7Q8IWNfHM&ab_channel=Mathologer Minute 34
+- This project is described in this notebook https://github.com/science4performance/Hexagons/blob/main/Hexagons.ipynb
+- Code to run longer simulations here https://github.com/science4performance/Hexagons/blob/main/Hexagons.py
 
